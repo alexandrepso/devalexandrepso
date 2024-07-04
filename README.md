@@ -13,7 +13,8 @@
 
 #### *Tenho 35 anos, moro no Rio de Janeiro/Rj e sou apaixonado por programação e séries! criador oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!* :v:
 
-![dig](https://github.com/devalexandrepso)
+
+![dig](https://user-images.githubusercontent.com/95868877/235471562-bccd0a6f-7d04-49d4-a493-e4ddad13ace9.gif)
 
 
 
@@ -31,6 +32,6 @@
 
 <div>
 <a href="https://github.com/alexandrepso">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrepso&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandrepso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devalexandrepso&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devalexandrepso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
